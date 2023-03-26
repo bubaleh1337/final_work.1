@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\draft\\draft.csproj",
-      "projectName": "draft",
-      "projectPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\draft\\draft.csproj",
+      "projectUniqueName": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj",
+      "projectName": "task",
+      "projectPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\draft\\obj\\",
+      "outputPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task1\\task1.csproj": {}
+    "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj": {}
   },
   "projects": {
-    "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task1\\task1.csproj": {
+    "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task1\\task1.csproj",
+        "projectUniqueName": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj",
+        "projectName": "task",
+        "projectPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\task.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task1\\obj\\",
+        "outputPath": "D:\\Kate\\EDU\\GeekBrains\\lessons\\practice\\final_work.1\\task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
