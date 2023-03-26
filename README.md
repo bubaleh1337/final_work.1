@@ -24,3 +24,4 @@
 
 **Блок-схема метода FindElement:**
 
+![diagram](https://user-images.githubusercontent.com/52395752/227787403-30e843f0-891f-4e73-bc85-bd5317528a10.png)
