@@ -2,7 +2,7 @@
 
 **Задание**
 
-![task](task.jpg)
+![task](https://user-images.githubusercontent.com/52395752/227785464-83e6a1e6-6548-48ce-8b20-74755d0945ab.jpg)
 
 **Моё решение:**
 
